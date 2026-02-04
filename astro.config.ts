@@ -1,4 +1,3 @@
-import { fileURLToPath } from "node:url";
 import node from "@astrojs/node";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
